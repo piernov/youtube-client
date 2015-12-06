@@ -1,0 +1,6 @@
+Dependencies:
+	— ruby
+	— mpv
+	— youtube-dl
+	— httpclient (gem install httpclient)
+	— oga (gem install oga)
